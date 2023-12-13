@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/proyectofinal/static/css/main.aa81ea2e.css",
+    "main.js": "/proyectofinal/static/js/main.0205471f.js",
+    "static/js/787.ad403f68.chunk.js": "/proyectofinal/static/js/787.ad403f68.chunk.js",
+    "static/media/cam3.mp4": "/proyectofinal/static/media/cam3.5b58ba5304dfa32703f0.mp4",
+    "static/media/playTrailer.mp4": "/proyectofinal/static/media/playTrailer.5f9da1e7cec6307ebf8f.mp4",
+    "static/media/watch3.mp4": "/proyectofinal/static/media/watch3.2a750045a08cfdae126d.mp4",
+    "static/media/samsungTrailer.mp4": "/proyectofinal/static/media/samsungTrailer.b6e64e9b0003912c61b6.mp4",
+    "static/media/tvSonyTrailer.mp4": "/proyectofinal/static/media/tvSonyTrailer.5f6a9eeac940067849d6.mp4",
+    "static/media/dellTrailer.mp4": "/proyectofinal/static/media/dellTrailer.153ee3b61a0b940fc5dd.mp4",
+    "static/media/switchTrailer.mp4": "/proyectofinal/static/media/switchTrailer.416e175a84f7a90dba72.mp4",
+    "static/media/vid1.mp4": "/proyectofinal/static/media/vid1.0441dacafd5ee4c3443e.mp4",
+    "static/media/xboxTrailer.mp4": "/proyectofinal/static/media/xboxTrailer.ed2762e59764194f521a.mp4",
+    "static/media/cam1.mp4": "/proyectofinal/static/media/cam1.8a9528b5b2ba6a3928c6.mp4",
+    "static/media/xiaomiTrailer.mp4": "/proyectofinal/static/media/xiaomiTrailer.50b099139853c673ac09.mp4",
+    "static/media/vid2.mp4": "/proyectofinal/static/media/vid2.f4e4c9398f714c378f53.mp4",
+    "static/media/tvSamsungTrailer.mp4": "/proyectofinal/static/media/tvSamsungTrailer.6df5cd7d6748893b3d6c.mp4",
+    "static/media/watch1.mp4": "/proyectofinal/static/media/watch1.c3bef0ffec77944b1ef8.mp4",
+    "static/media/cam2.mp4": "/proyectofinal/static/media/cam2.60eb9d4e97c1749efd16.mp4",
+    "static/media/hpTrailer.mp4": "/proyectofinal/static/media/hpTrailer.44bc1399346dd6940280.mp4",
+    "static/media/watch2.mp4": "/proyectofinal/static/media/watch2.1a92d3e6c55fd56c28a2.mp4",
+    "static/media/fondo.jpg": "/proyectofinal/static/media/fondo.a2dcdddf38862cec927a.jpg",
+    "static/media/02.jpg": "/proyectofinal/static/media/02.87899699f5a6212791ec.jpg",
+    "static/media/01.jpg": "/proyectofinal/static/media/01.ceb266d359c7e5165949.jpg",
+    "static/media/03.jpg": "/proyectofinal/static/media/03.81022be5c2fa8fae7394.jpg",
+    "static/media/05.jpg": "/proyectofinal/static/media/05.c33e4061ac3b5b695719.jpg",
+    "static/media/logo.jpg": "/proyectofinal/static/media/logo.df5d91be7734ea589515.jpg",
+    "static/media/01.jpeg": "/proyectofinal/static/media/01.b18dc5c5a8911f23c3d3.jpeg",
+    "static/media/04.jpg": "/proyectofinal/static/media/04.80df7b5a446f745b3fa0.jpg",
+    "index.html": "/proyectofinal/index.html",
+    "main.aa81ea2e.css.map": "/proyectofinal/static/css/main.aa81ea2e.css.map",
+    "main.0205471f.js.map": "/proyectofinal/static/js/main.0205471f.js.map",
+    "787.ad403f68.chunk.js.map": "/proyectofinal/static/js/787.ad403f68.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa81ea2e.css",
+    "static/js/main.0205471f.js"
+  ]
+}
